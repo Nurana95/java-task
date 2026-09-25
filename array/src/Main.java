@@ -3,19 +3,6 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         /*
-2) Arrayin bütün elementlərinin cəmini və ədədi ortasını tap.
-3) Arrayin neçə cüt, neçə tək elementi olduğunu tap.
-4) Arrayin ən böyük və ən kiçik elementini tap.
-5) Arrayin elementlərini sondan əvvələ doğru çap et.
-6) İstifadəçi bir ədəd daxil edir. Bu ədəd arraydadırsa indeksini, yoxdursa "Tapılmadı" yaz.
-7) Matrisin əsas diaqonalındakı elementləri çap et
-8) Matrisin köməkçi diaqonalındakı elementləri çap et
-9)
-*
-**
-***
-****
-*****. For ile bu patterni cekin
          */
 
 //    task 1) 10 ölçülü array yarat, elementlərini ekrana çap et.
