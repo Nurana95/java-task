@@ -45,6 +45,9 @@ String input1="шалаш";
 // task 3 Sətri tərsinə çevir ("hello" → "olleh")
         String hi="hello";
         String empty="";
+        StringBuilder s2 = new StringBuilder(hi);
+             System.out.println(  s2.reverse());
+
         char[] charArr = hi.toCharArray();
         for (int i = charArr.length-1; i >=0; i--) {
             empty= empty + charArr[i];
@@ -53,17 +56,18 @@ String input1="шалаш";
         System.out.println(empty);
 
 
-
         //task 4  Anagram yoxlaması ("listen" və "silent")
         String input2="listen";
         String input3="silent";
-        System.out.println(input2==input3);
+        System.out.println("silent and listen "+(input2==input3));
         System.out.println(input2.equals(input3));
+
           //task 5  5) Sözlərin sırasını tərsinə çevir ("I love Java" → "Java love I")
 String words="i love java ";
 String part1=words.substring(0,1);
 String part2=words.substring(2,7);
 String part3=words.substring(7,12);
+
             System.out.println(part3+part2+part1);
 
         //task 6 6) Təkrarlanan simvolları tap və say ("programming" → r=2, g=2, m=2)
@@ -71,10 +75,11 @@ String words3="programming";
 
         char[] arr = words3.toCharArray();
         for (int i = 0; i < arr.length; i++) {
-            for (int j = 0; j < i; j++) {
-            if (arr[i]==arr[j]){
+            for (int j = 0; j < i; j++)
+                if (arr[i]==arr[j]){
                 System.out.println(arr[i]);
-            }
+
+
             }}
 
             //task 7) Hər sözün ilk hərfini böyük et ("salam dunya" → "Salam Dunya")
