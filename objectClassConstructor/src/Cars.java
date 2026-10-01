@@ -10,6 +10,7 @@ public class Cars {
     public String typeOfRoof;
     public Integer numberOfSeats;
     public Boolean newOld=true;
+    public Integer click1;
 
 
     public Cars(Integer id, String city, String model, Integer year, String type, String color, String speed, String engine, String typeOfRoof, Integer numberOfSeats, Boolean newOld) {
@@ -24,8 +25,13 @@ public class Cars {
         this.typeOfRoof = typeOfRoof;
         this.numberOfSeats = numberOfSeats;
         this.newOld = newOld;
+        this.click1=click1;
     }
 
+public Cars click(){
+        this.click1=+1;
+        return this;
+    }
 
     @Override
     public String toString() {
@@ -41,6 +47,9 @@ public class Cars {
                 ", typeOfRoof='" + typeOfRoof + '\'' +
                 ", numberOfSeats=" + numberOfSeats +
                 ", newOld=" + newOld +
+                ", click=" + click1 +
+
+
                 '}';
     }
 }
