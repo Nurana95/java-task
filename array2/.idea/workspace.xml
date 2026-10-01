@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a10b468c-8915-4794-bc95-902689256e5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../METHOD/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/METHOD.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../METHOD/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../objectClassConstructor/objectClassConstructor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,67 +19,67 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.000000000004169" />
-      <entry key="S30" value="1.0002740840371322" />
-      <entry key="S60" value="1.032771471455777" />
-      <entry key="M2" value="1.5284986596120238" />
-      <entry key="M5" value="5.054802447816092" />
-      <entry key="M10" value="10.1574563294022" />
-      <entry key="M15" value="13.569750901591842" />
-      <entry key="M30" value="19.68468078680034" />
-      <entry key="H1" value="27.151228353313314" />
-      <entry key="H2" value="36.176744544583414" />
-      <entry key="H4" value="52.99773650322439" />
-      <entry key="D1" value="161.69773217849925" />
-      <entry key="W1" value="219.0261458427932" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="4.227227845068686E-252" />
+      <entry key="S2" value="2.411731693091214E-63" />
+      <entry key="S5" value="1.390391667241606E-25" />
+      <entry key="S10" value="5.83593610915912E-13" />
+      <entry key="S30" value="1.9479029467807E-4" />
+      <entry key="S60" value="0.030965619145073175" />
+      <entry key="M2" value="0.49238463814264866" />
+      <entry key="M5" value="4.397872820421808" />
+      <entry key="M10" value="13.455179004893546" />
+      <entry key="M15" value="22.1824165190559" />
+      <entry key="M30" value="42.35066480869682" />
+      <entry key="H1" value="66.67688732632338" />
+      <entry key="H2" value="91.40121003303857" />
+      <entry key="H4" value="118.77026459628756" />
+      <entry key="D1" value="240.66679370876432" />
+      <entry key="W1" value="305.33041974341023" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.114934137469609E-237" />
-      <entry key="S2" value="5.779140371884465E-60" />
-      <entry key="S5" value="2.0710947586826683E-24" />
-      <entry key="S10" value="1.6527546361208797E-12" />
-      <entry key="S30" value="1.8840310009263244E-4" />
-      <entry key="S60" value="0.02789689300728994" />
-      <entry key="M2" value="0.4611063364314278" />
-      <entry key="M5" value="3.1175140305200704" />
-      <entry key="M10" value="6.3842611057027625" />
-      <entry key="M15" value="8.296041133591858" />
-      <entry key="M30" value="11.351662274109618" />
-      <entry key="H1" value="14.955420449494891" />
-      <entry key="H2" value="19.4805139564149" />
-      <entry key="H4" value="28.18730600287585" />
-      <entry key="D1" value="82.30713815620437" />
-      <entry key="W1" value="110.203715170022" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.00000000316313" />
+      <entry key="S2" value="1.0074994473518664" />
+      <entry key="S5" value="1.141257561304498" />
+      <entry key="S10" value="1.3758424687346993" />
+      <entry key="S30" value="1.7217148513740876" />
+      <entry key="S60" value="1.857347835114139" />
+      <entry key="M2" value="2.056344225522376" />
+      <entry key="M5" value="3.2158026767667884" />
+      <entry key="M10" value="5.6533302445554785" />
+      <entry key="M15" value="8.029546367125644" />
+      <entry key="M30" value="14.93316495511517" />
+      <entry key="H1" value="25.84335099757058" />
+      <entry key="H2" value="38.44193989306224" />
+      <entry key="H4" value="52.93505107509399" />
+      <entry key="D1" value="114.57055480136961" />
+      <entry key="W1" value="146.32827232978067" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.21022410381342865" />
-      <entry key="MS500" value="0.7320428479728127" />
-      <entry key="S2" value="0.9249837975243687" />
-      <entry key="S5" value="0.969289816935065" />
-      <entry key="S10" value="0.9845251733427794" />
-      <entry key="S30" value="0.9952644363493566" />
-      <entry key="S60" value="1.0571938611609717" />
-      <entry key="M2" value="1.9810287412392398" />
-      <entry key="M5" value="8.151002302669934" />
-      <entry key="M10" value="16.518544549714623" />
-      <entry key="M15" value="21.844625915567644" />
-      <entry key="M30" value="31.020439914594288" />
-      <entry key="H1" value="42.09529412625097" />
-      <entry key="H2" value="55.64947604921531" />
-      <entry key="H4" value="81.17928454796268" />
-      <entry key="D1" value="244.00207513134063" />
-      <entry key="W1" value="329.229327520895" />
+      <entry key="MS100" value="1.2272462506109087E-8" />
+      <entry key="MS500" value="0.026168953077417855" />
+      <entry key="S2" value="0.4065070108257763" />
+      <entry key="S5" value="0.807780271025778" />
+      <entry key="S10" value="1.169787231954412" />
+      <entry key="S30" value="1.6367493708532799" />
+      <entry key="S60" value="1.8422121280274066" />
+      <entry key="M2" value="2.520041634017549" />
+      <entry key="M5" value="7.585343865849369" />
+      <entry key="M10" value="19.076554460115766" />
+      <entry key="M15" value="30.179712687603832" />
+      <entry key="M30" value="57.254169036389214" />
+      <entry key="H1" value="92.49607308615946" />
+      <entry key="H2" value="129.82585702180816" />
+      <entry key="H4" value="171.69368572750983" />
+      <entry key="D1" value="355.2333265172937" />
+      <entry key="W1" value="451.6579648416083" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3Juy7fuOpA1oRU3B18qH5NlBzxe" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -109,6 +97,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/0/Desktop/task/array2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
