@@ -4,6 +4,15 @@ import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
+
+        List list = new ArrayList();
+        list.add("Привет");
+        list.add(123);
+        list.get(1);
+        System.out.println(list.get(1));
+
+
+
         //1
         Box<String> box = new Box<>("Salam");
         System.out.println(box.get());
@@ -45,6 +54,7 @@ public class Main {
 
 
     }
+
 
     //Tapşırıq 4: Wildcard, sum
 //List<? extends Number> qəbul edib cəmi double kimi qaytaran metod yaz:
