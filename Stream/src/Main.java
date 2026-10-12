@@ -107,7 +107,11 @@ List<Integer> filter=map.stream()
 // və hər birini "Ədəd: 15" formatında çap et.
 //Nümunə: [5, 12, 8, 15, 20] → Ədəd: 12, Ədəd: 15, Ədəd: 20
         List<Integer> numbers = Arrays.asList(5, 12, 8, 15, 20);
-        numbers.stream()
+            List<String> names = List.of();
+            System.out.println(names+"kgkgk");
+
+
+            numbers.stream()
                 .filter(n -> n > 10)
                 .map(n -> "Ədəd: " + n)
                 .forEach(System.out::println);
