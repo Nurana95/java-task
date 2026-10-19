@@ -63,6 +63,7 @@ public class Main {
     }
 
     public static void main(String[] args) {
+
         List<Integer> numbers = List.of(1, 2, 3, 4, 5, 6);
         System.out.println(filter(numbers, n -> n % 2 == 0));
         List<String> names = List.of("Ali", "Vəli", "Aysel");
