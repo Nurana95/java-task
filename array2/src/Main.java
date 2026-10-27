@@ -35,6 +35,11 @@ yalnız bir dəfə qalsın.
                 }
             }
         }
+        for (int i = 1; i <=100; i++) {
+            if (i%2==0){
+            System.out.println(i);}
+
+        }
 
         System.out.print("Artan sıra: ");
         for (int i = 0; i < arr.length; i++) {
